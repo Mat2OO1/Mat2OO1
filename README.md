@@ -11,18 +11,18 @@
 
 I am very good at:
 
-![Java]("https://github.com//Mat2OO1/Mat2OO1/main/img/java.png")
-![Python]("https://github.com//Mat2OO1/Mat2OO1/main/img/python.png")
+![Java]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/java.png")
+![Python]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/python.png")
 
 I had contact with:
 
-![C++]("https://github.com//Mat2OO1/Mat2OO1/main/img/c++.png")
-![Scala]("https://github.com//Mat2OO1/Mat2OO1/main/img/scala.png")
+![C++]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/c++.png")
+![Scala]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/scala.png")
 
 I work with:
 
-![IntelliJ]("https://github.com//Mat2OO1/Mat2OO1/main/img/intellij.png")
-![VsCode]("https://github.com//Mat2OO1/Mat2OO1/main/img/vsCode.png")
+![IntelliJ]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/intellij.png")
+![VsCode]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/vsCode.png")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
