@@ -26,6 +26,9 @@ I work with:
 ![intelliJ](img/intellij2.png)
 ![VsCode](img/vsCode2.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact&theme=dark" height="200" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dark" height="200" /></td>
+  </tr>
