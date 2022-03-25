@@ -7,23 +7,25 @@
 - 🥅 2022 Goals: Learn spring and find my first job/internship
 - ⚡ Fun fact: ---
 
-### Languages and Tools:
+## Languages and Tools:
 
 I am very good at:
 
-![Java]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/java.png")
-![Python]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/python.png")
+![Java](img/java2.png)
+![Python](img/python2.png)
 
 I had contact with:
 
-![C++]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/c++.png")
-![Scala]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/scala.png")
+![c++](img/c%2B%2B2.png)
+![scala](img/scala2.png)
+![html](img/html2.png)
+![css](img/css-32.png)
 
 I work with:
 
-![IntelliJ]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/intellij.png")
-![VsCode]("https:/github.com/Mat2OO1/Mat2OO1/blob/main/img/vsCode.png")
+![intelliJ](img/intellij2.png)
+![VsCode](img/vsCode2.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
