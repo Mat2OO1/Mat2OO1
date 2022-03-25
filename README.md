@@ -29,6 +29,6 @@ I work with:
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact&theme=dark" height="200" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dark" height="200" /></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat2OO1&layout=compact&layout=compact&theme=dracula" height="200" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Mat2OO1&show_icons=true&theme=dracula" height="200" /></td>
   </tr>
