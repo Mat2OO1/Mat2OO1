@@ -3,7 +3,6 @@
 ## I'm a Student of Applied Computer Science at WUST!!
 
 - 🌱 I’m currently learning Spring
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn spring and find my first job/internship
 - ⚡ Fun fact: ---
 
