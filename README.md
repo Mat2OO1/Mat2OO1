@@ -1,10 +1,10 @@
 # Hi there, I'm Mateusz 👋
 
-## I'm a Student of Applied Computer Science at WUST!!
+## I'm a Student of Applied Computer Science at WUST
 
 - 🌱 I’m currently learning Spring
 - 🥅 2022 Goals: Learn spring and find my first job/internship
-- ⚡ Fun fact: ---
+
 
 ## Languages and Tools:
 
@@ -19,6 +19,8 @@ I had contact with:
 ![scala](img/scala2.png)
 ![html](img/html2.png)
 ![css](img/css-32.png)
+![springboot](img/spring.png)
+![sql](img/sql.png)
 
 I work with:
 
