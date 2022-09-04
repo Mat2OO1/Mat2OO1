@@ -20,7 +20,6 @@ I had contact with:
 ![html](img/html2.png)
 ![css](img/css-32.png)
 ![springboot](img/spring.png)
-![sql](img/sql.png)
 
 I work with:
 
