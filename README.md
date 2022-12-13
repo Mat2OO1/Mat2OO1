@@ -4,7 +4,7 @@
 - 📚 I'm a third year student of Applied Computer Science at WUST
 - 🌱 I’m currently learning **Angular**
 
-- ⚡ **I love travelling and playing on a guitar. I'm a math tutor**
+- ⚡ **I love travelling and playing on a guitar. I'm a math and IT private tutor**
 
 
 <h3 align="left">Languages and Tools:</h3>
