@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 , I'm Mateusz</h1>
 <h3 align="center">I want to become Junior Full-Stack Developer 🧑🏼‍💻</h3>
 
-- 📚 I'm a third year student of Applied Computer Science at WUST
-- 🌱 I’m currently learning **Angular**
+- 📚 I'm a final-year student of Applied Computer Science at WUST
+- 🏢 I'm gaining practical experience as a summer intern at BNY Mellon
+- 🌱 I’m currently working on my engineering thesis
+
 
 - ⚡ **I love travelling and playing on a guitar. I'm a math and IT private tutor**
 
