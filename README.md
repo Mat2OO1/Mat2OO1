@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋 , I'm Mateusz</h1>
-<h3 align="center">I want to become Junior Full-Stack Developer 🧑🏼‍💻</h3>
+<h1 align="center">Hi 👋 , I'm Mateusz</h1>  
 
-- 📚 I'm a final-year student of Applied Computer Science at WUST
-- 🏢 I'm gaining practical experience as a summer intern at BNY Mellon
-- 🌱 I’m currently working on my engineering thesis
+- 📚 I'm currently pursuing a Master's degree in Management Engineering
+- 📚 I'm a Bachelor of Computer Science 
+- 🏢 I'm working as QA Automation Engineer at Grid Dynamics
 
 
 - ⚡ **I love travelling and playing on a guitar. I'm a math and IT private tutor**
