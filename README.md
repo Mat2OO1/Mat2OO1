@@ -2,7 +2,7 @@
 
 - 📚 I'm currently pursuing a Master's degree in Management Engineering
 - 📚 I'm a Bachelor of Computer Science 
-- 🏢 I'm working as QA Automation Engineer at Grid Dynamics
+- 🏢 I'm working as Full-Stack Developer at BNY
 
 
 - ⚡ **I love travelling and playing on a guitar. I'm a math and IT private tutor**
